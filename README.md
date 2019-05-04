@@ -15,3 +15,12 @@ Analista de Seleccion
 
 	Creacion de empleados y consulta de empleados
 	Usuarios: seleccion_1, seleccion_2
+
+
+<img src="Role1.PNG" />
+<img src="Rol1_User1.PNG" />
+<img src="Rol_DBa.PNG" />
+<img src="Role2.PNG" />
+<img src="Rol2_User2.PNG" />  	
+<img src="Rol3.PNG" />
+<img src="Rol3_User2.PNG" />
