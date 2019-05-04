@@ -19,6 +19,8 @@ Analista de Seleccion
 
 ## Creación de roles y usuarios
 
+A continuación, se presenta la creación de los roles y su asignación a cada uno de los usuarios:
+
 ### Creación del ROL DBA
 
 ![GitHub DBA](./Role1.PNG)
@@ -43,7 +45,10 @@ Analista de Seleccion
 
 <img src="Rol3_User2.PNG" />
 
+
 ## Verificación de privilegios
+
+A continuación, se realiza la verificación de los privilegios de los usuarios de acuerdo con el rol asignado:
 
 ### Usuario "dba_1"
 
