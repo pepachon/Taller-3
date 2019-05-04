@@ -2,6 +2,7 @@
 
 
 DBA
+	
 	Creacion BD y Tablas, backups, Creacion de usuarios, Asignacion de Permisos
 
 Analista de nomina
